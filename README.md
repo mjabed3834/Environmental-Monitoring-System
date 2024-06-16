@@ -25,7 +25,7 @@ This project involves building an environmental monitoring system using an ESP82
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/environmental-monitoring-system.git
+   git clone https://github.com/mjabed3834/environmental-monitoring-system.git
    cd environmental-monitoring-system
    ```
 
